@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-04-24 22:00+0200\n"
-"PO-Revision-Date: 2005-04-24 22:00+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-05-10 20:00+0100\n"
+"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,48 +13,56 @@ msgstr ""
 
 #: Orcish_Incursion.cfg:16
 msgid "An Orcish Incursion"
-msgstr ""
+msgstr "Une Intrusion Orc"
 
 #: Orcish_Incursion.cfg:19
 msgid "Fighter"
-msgstr ""
+msgstr "Combattant"
 
 #: Orcish_Incursion.cfg:19
 msgid "(easiest)"
-msgstr ""
+msgstr "(facile)"
 
 #: Orcish_Incursion.cfg:20
 msgid "Lord"
-msgstr ""
+msgstr "Seigneur"
 
 #: Orcish_Incursion.cfg:21
 msgid "(hardest)"
-msgstr ""
+msgstr "(difficile)"
 
 #: Orcish_Incursion.cfg:21
 msgid "High Lord"
-msgstr ""
+msgstr "Haut Seigneur"
 
+# pas tout compris à cette phrase
 #: Orcish_Incursion.cfg:24
 msgid ""
 "Defend the forests of the elves against marauding orcs, learning valuable "
 "tactics as you do so."
 msgstr ""
+"Défendre les forêts des elfes contre les orcs maraudeurs, en apprenant des "
+"tactiques valables."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:4
 msgid "Showdown"
-msgstr ""
+msgstr "Confrontation"
 
+# pour rangers j'ai laissé rangers pour le moment
 #: Orcish_Incursion/scenarios/ambush.cfg:49
 msgid ""
 "Hint:\n"
 "Your enemy is well defended against attacks from the south. Use rangers to "
 "sneak through the forest and mount a surprise attack from the north."
 msgstr ""
+"Astuce :\n"
+"Votre ennemy est bien protégé contre les attaques provenant du sud. Utilisez "
+"des rangers pour vous faufiller à travers la forêt et mettre en place une "
+"attaque surprise à partir du nord."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:52
 msgid "Defeat Rualsha-Tan"
-msgstr ""
+msgstr "Vaincre Rualsha-Tan"
 
 #: Orcish_Incursion/scenarios/forest.cfg:60
 #: Orcish_Incursion/scenarios/no_villages.cfg:54
@@ -64,7 +72,7 @@ msgstr ""
 #: Orcish_Incursion/scenarios/ambush.cfg:56
 #: Orcish_Incursion/scenarios/teleportation.cfg:78
 msgid "Death of Erlornas"
-msgstr ""
+msgstr "Mort de Erlornas"
 
 #: Orcish_Incursion/scenarios/forest.cfg:64
 #: Orcish_Incursion/scenarios/no_villages.cfg:58
@@ -74,7 +82,7 @@ msgstr ""
 #: Orcish_Incursion/scenarios/ambush.cfg:60
 #: Orcish_Incursion/scenarios/teleportation.cfg:86
 msgid "Time runs out"
-msgstr ""
+msgstr "Temps épuisé"
 
 #: Orcish_Incursion/scenarios/ambush.cfg:134
 msgid ""
@@ -82,40 +90,56 @@ msgid ""
 "has deliberated, and asks you to defeat Rualsha quickly before he can muster "
 "a full invasion force."
 msgstr ""
+"Mon seigneur ! Nous avons chevaucher pendant 5 jours pour vous rejoindre ! "
+"Le conseil a délibéré, et demande que vous vainquiez Rualsha rapidement "
+"avant qu'il puisse rassembler un force d'invasion totale."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:138
 msgid ""
 "Puny elves! My full army will be here soon, and then we will crush you. You "
 "will beg for a quick death!"
 msgstr ""
+"Malheureux elfes ! Mon armée entière sera bientôt là, et ensuite nous vous "
+"écraserons. Vous allez supplier pour une mort rapide !"
 
 #: Orcish_Incursion/scenarios/ambush.cfg:152
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will persue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
+"Vous devriez me tuer, Erlornas, mais mon peuple me survivra. Ils "
+"n'oublieront pas ! Ils vont vous poursuivre, et vous faire disparaître..."
+"nous allons...nous...arrgh..."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:156
 msgid ""
 "But Rualsha overestimated the will of his troops. With their leader dead, "
 "they scattered, and fled from the elves back to their homes in the far north."
 msgstr ""
+"Mais Rualsha surestima l'issue de ses troupes. Avec leur leader mort, ils se "
+"sont éparpillés, et ont fuit les elfes vers leur pays dans le nord lointain."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:166
 msgid ""
 "It grieves me to take life, even of a barbarian such such as Rualsha. He led "
 "the orcs in a more organised way than I have ever known of before."
 msgstr ""
+"Celà m'afflige de prendre des vies, même celle d'un barbare tel que Rualsha. "
+"Il a dirigé les orcs avec une bien meilleure organisation jamais vu "
+"auparavant."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
 msgid ""
 "Let us hope the orcs never against produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
 msgstr ""
+"Laissez nous espérer que les orcs ne créront plus jamais un tel leader ! "
+"Maintenant, Erlornas, nous devons retourner chez nous - le conseil va vous "
+"récompenser pleinement !"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:4
 msgid "Assassins"
-msgstr ""
+msgstr "Assassins"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:53
 msgid ""
@@ -124,32 +148,38 @@ msgid ""
 "villages, where poisoning can be cured, and force your enemies to attack you "
 "from the river."
 msgstr ""
+"Astuce \n"
+"Les assassins sont difficile à toucher, et leur poison est insidieux. Restez "
+"proche des villages, où vous l'empoisonnement peut être guéri, et forcez vos "
+"ennemis à vous attaquer depuis le fleuve."
 
 #: Orcish_Incursion/scenarios/assassins.cfg:55
 msgid "Defeat Gharlsa"
-msgstr ""
+msgstr "Vaincre Gharlsa"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:82
 msgid "Gharlsa sees elves... yes... fresh meat, yes, yes..."
-msgstr ""
+msgstr "Gharlsa voit les elfes... oui... viande fraîche, oui, oui..."
 
 #: Orcish_Incursion/scenarios/assassins.cfg:86
 msgid ""
 "Does that demented creature really think he can kill us... let us teach him "
 "a lesson!"
 msgstr ""
+"Est ce que cette créature démente pense réellement pouvoir nous tuer... "
+"Donnons lui une bonne leçon !"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:90
 msgid "Be careful... he may be more dangerous than he appears."
-msgstr ""
+msgstr "Soit prudent... Il pourrait être plus dangereux qu'il n'y paraît."
 
 #: Orcish_Incursion/scenarios/assassins.cfg:107
 msgid "Yes... yes... slay them, my assassins!"
-msgstr ""
+msgstr "Oui...Oui...massacrez les, mes assasins !"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:4
 msgid "Valley of Trolls"
-msgstr ""
+msgstr "La vallée des Trolls"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:89
 msgid ""
@@ -157,16 +187,21 @@ msgid ""
 "Trolls are very dangerous if they can attack as a group. Use the cave-mouths "
 "as bottlenecks to fight them one at a time."
 msgstr ""
+"Astuce :\n"
+"Les trolls sont très dangereux si ils peuvent attaquer en groupe. Utilisez "
+"les boyaux des cavernes comme goulot pour les cambattre un à la fois."
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:91
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Vaincre tous les chefs ennemis"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:118
 msgid ""
 "We are far from our lands, now, Erlornas, and we have driven the orcs from "
 "the forest. Why do we not return to our post?"
 msgstr ""
+"Nous sommes loin de nos contrées, Erlornas, et nous repousser les orcs de la "
+"forêt. Pourquoi ne pas retourner à notre camp ?"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:122
 msgid ""
@@ -174,59 +209,77 @@ msgid ""
 "warlord in search of pillage.  He is planning an invasion, I'm sure of it. "
 "We must gather more information about his plans before we go back."
 msgstr ""
+"Vous avez entendu ce que les orcs ont dit - ce Rualsha est plus qu'un simple "
+"seigneur de guerre maraudeur qui recherche le pillage. Il planifie une "
+"invasion, j'en suis sur. Nous devons obtenir plus d'information sur ses "
+"plans avant de repartir."
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:126
 msgid ""
 "Information will do us no good if we are killed before we return with it! "
 "These mountains look like troll territory."
 msgstr ""
+"Les renseignements nous seront inutiles si nous sommes tués avant d'être "
+"revenu avec ! Ces montagnes semble être un territoire de troll."
 
 #: Orcish_Incursion/scenarios/forest.cfg:4
 msgid "Defend the Forest"
-msgstr ""
+msgstr "Défendre la forêt"
 
 #: Orcish_Incursion/scenarios/forest.cfg:54
+#, fuzzy
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
 "with your archers from the safety of the forest."
 msgstr ""
+"Astuce :\n"
+"Les elfes se déplacent rapidement et sûrement dans les arbres. De la forêt "
+"réduisez en pièces les grognards ennemis."
 
 #: Orcish_Incursion/scenarios/forest.cfg:56
 msgid "Defeat Urugha"
-msgstr ""
+msgstr "Vaincre Urugha"
 
 #: Orcish_Incursion/scenarios/forest.cfg:77
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
 msgstr ""
+"Regardez Erlonas ! Une troupe guerrière d'orcs s'est établie au nord. Ils "
+"sont en train de détruire la forêt !"
 
 #: Orcish_Incursion/scenarios/forest.cfg:81
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
 msgstr ""
+"Je les vois... nous devrions être capable de les renvoyer chez-eux. Tout de "
+"même, vous avez bien fait d'envoyer des renforts, Lomarfel."
 
 #: Orcish_Incursion/scenarios/forest.cfg:85
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Oui, Chef !"
 
 #: Orcish_Incursion/scenarios/forest.cfg:107
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
 msgstr ""
+"Soyez maudit, maudits elfes ! Vous allez souffrir... Mon maître Rualsha "
+"approche. Il va supprimer votre peuple de la surface de la terre !"
 
 #: Orcish_Incursion/scenarios/forest.cfg:111
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
 msgstr ""
+"Hum... Qui est ce Rualsha, je me le demande ? Je vais devoir aller explorer "
+"au nord pour voir ce qu'il se trame là-bas..."
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:4
 msgid "Wasteland"
-msgstr ""
+msgstr "Désert"
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:48
 msgid ""
@@ -234,16 +287,22 @@ msgid ""
 "There are no villages in this scenario - you must use healers instead. Use "
 "hit and run tactics to weaken enemy units who cannot heal themselves."
 msgstr ""
+"Astuce :\n"
+"Il n'y a aucun village dans ce scénario - vous devez utilisez des "
+"guérisseurs à la place. Utilisez les tactiques actions éclairs sur les "
+"unités ennemis les plus faibles qui ne peuvent pas se guérir eux-mêmes."
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:50
 msgid "Defeat Gnargha"
-msgstr ""
+msgstr "Vaincre Gnargha"
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:76
 msgid ""
 "The foul orcs have devastated this area, destroying the trees and driving "
 "out the peaceful folk... it saddens me to see such waste."
 msgstr ""
+"Les infectes orcs ont dévasté cette zone, destruisant les arbres et chassant "
+"au loin les paisibles gens... Celà m'attriste de voir tant de gâchis."
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:80
 msgid ""
@@ -251,50 +310,67 @@ msgid ""
 "few nights ago. Know this: Lord Rualsha has permitted me to be the agent of "
 "his revenge!"
 msgstr ""
+"Félicitations, Erlornas ! Je suis Gnargha, le frère d'Urugha que vous avez "
+"assassiné il y a quelques nuits. Sachez ceci : Le seigneur Rualsha m'a "
+"permis d'être l'outil de sa vengeance !"
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:84
 msgid ""
 "I have no quarrel with you, Gnargha, nor with your leader Rualsha - but I "
 "cannot permit you to invade our lands. Leave now, and we shall be at peace."
 msgstr ""
+"Je n'ai rien à vous reprocher Gnargha, encore moins avec votre leader "
+"Rualsha - mais je ne peux vous permettre d'envahir nos plaines. Partez "
+"maintenant, et nous pourrons être en paix."
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:88
 msgid ""
 "Peace?! Bah! You are weaker than I thought. Now prepare yourself for a slow "
 "and painful death!"
 msgstr ""
+"Paix ? ! Pfff ! Vous êtes plus faible que je ne le pensais. Maintenant "
+"préparez-vous pour une lente et douloureuse mort !"
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:99
 msgid ""
 "Gnargha and his troops must have come down out of that valley to the "
 "north... that is where we will go next!"
 msgstr ""
+"Gnargha et ses troupes doivent être descendus hors de cette vallée du "
+"nord... et c'est là que irons !"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:4
 msgid "Linaera the Quick"
-msgstr ""
+msgstr "Linaera the Quick"
 
+# J'ai mis attaques éclair, je pense que ça reflète l'idée que j'ai pu comprendre
 #: Orcish_Incursion/scenarios/teleportation.cfg:72
 msgid ""
 "Hint:\n"
 "This enemy is too strong for you to defeat alone. Use mounted units, and "
 "Linaera's power of teleportation to mount hit and run attacks."
 msgstr ""
+"Astuce :\n"
+"Cette ennemi est trop fort pour que vous le vainquiez seul. Utilisez des "
+"unités montées et le pouvoir de téléportation de Linaera pour effectuer des "
+"attaques éclairs."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:74
 msgid "Defeat Krughnar"
-msgstr ""
+msgstr "Vaincre Krughnar"
 
 #: Orcish_Incursion/scenarios/undead.cfg:58
 #: Orcish_Incursion/scenarios/teleportation.cfg:82
 msgid "Death of Linaera"
-msgstr ""
+msgstr "Mort de Linaera"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:105
 msgid ""
 "We have come into the lands of the humans, Erlornas! See, there is one "
 "living in that tower to the west."
 msgstr ""
+"Nous sommes arrivé dans les contrées des humains, Erlornas ! Regardez, l'un "
+"d'entre eux réside dans ce château à l'est."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:110
 msgid ""
@@ -302,41 +378,58 @@ msgid ""
 "seige to my tower for weeks... we are nearly out of supplies. Our people "
 "have always been friendly to the elves - will you not assist us?"
 msgstr ""
+"Au secours ! Une grande armée d'orcs est venue du nord, et assiège mon "
+"château depuis des semaines... nous sommes presque à cours de provisions. "
+"Notre peuple a toujours été amical avec les elfes - ne nous assisteriez vous "
+"pas ?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:114
 msgid ""
 "Yes, of course! But... I wish to defeat the vile orcs and drive them away "
 "from our borders. Will you join us in attacking them?"
 msgstr ""
+"Oui bien sur ! Je désire vaincre les abominables orcs et les conduire loin "
+"de nos frontières. Vous joigneriez-vous à nous pour les attaquer ?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:118
 msgid ""
 "Nothing would please me better! I will place all my powers at your command."
 msgstr ""
+"Rien ne pourrait me faire plus plaisir ! Je vais mettre à votre disposition "
+"tous mes pouvoirs."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:131
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
 msgstr ""
+"Mon seigneur... les humains ne sont pas dignes de confiance ! Ils remettent "
+"en cause leur fidélité comme le vent change de direction !"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:135
 msgid ""
 "That may be, but I do not think this one will betray us to the orcs. And we "
 "may need her assistance, too: that is a powerful force of orcs ahead."
 msgstr ""
+"Ca se pourrait, mais je ne pense pas qu'il puisse nous vendre aux orcs. Et "
+"nous pourrions avoir besoin d'aide aussi : il y a la puissance troupe des "
+"orcs devant nous."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:150
 msgid ""
 "Oh no! Without Linaera's help, I cannot hope to defeat such a great force of "
 "orcs. I must return to my post and await reinforcements."
 msgstr ""
+"Oh non ! Sans l'aide de Linaera, je ne peux espérer vaincre la si grande "
+"force des orcs. Je dois retourner à mon fort et attendre des renforts."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:164
 msgid ""
 "Thank you, Linaera. I couldn't have defeated the orcs without your help... "
 "How can I repay you?"
 msgstr ""
+"Merci, Lineara. Je n'aurai pu vaincre les orcs sans votre aide... Comment "
+"puis-je vous rendre la pareille ?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:168
 msgid ""
@@ -344,14 +437,17 @@ msgid ""
 "here. I had meant to deal with it myself, but perhaps you would like to help "
 "us once again?"
 msgstr ""
+"Autre chose... une puissance maléfique hante les marécages situés à l'est "
+"d'ici. J'avais pensé traîter avec lui moi-même, mais peut être vous voudriez "
+"nous aider une nouvelle fois ?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:172
 msgid "Very well... to the east!"
-msgstr ""
+msgstr "Très bien... à l'est !"
 
 #: Orcish_Incursion/scenarios/undead.cfg:4
 msgid "A Detour through the Swamp"
-msgstr ""
+msgstr "Un détour à travers les marécages"
 
 #: Orcish_Incursion/scenarios/undead.cfg:48
 msgid ""
@@ -359,10 +455,14 @@ msgid ""
 "Undead are resistant to physical attack. Use mages to attack the undead, and "
 "elves to protect and support the mages."
 msgstr ""
+"Astuce :\n"
+"Les morts-vivants sont résistants aux attaques physiques. Utilisez les mages "
+"pour attaquer les morts-vivants, et les elfes pour protéger et soutenir les "
+"mages."
 
 #: Orcish_Incursion/scenarios/undead.cfg:50
 msgid "Defeat Keremal"
-msgstr ""
+msgstr "Vaincre Keremal"
 
 #: Orcish_Incursion/scenarios/undead.cfg:87
 msgid ""
@@ -370,25 +470,35 @@ msgid ""
 "bog. My apprentices and I have the power to dispell them, but you must "
 "protect us from their weapons."
 msgstr ""
+"L'esprit diabolique qui s'est établi dans ces marais les a transformé en "
+"cette abominable marécage. Mes apprentis and moi avont le pouvoir de les "
+"chasser, mais vous devez nous protéger de leurs armes."
 
 #: Orcish_Incursion/scenarios/undead.cfg:102
 msgid ""
 "All is lost! Without Linaera's help, I cannot hope to defeat these "
 "horrifying appraritions!"
 msgstr ""
+"Tout est perdu ! Sans l'aide de Linaera je ne peux espérer vaincre ces "
+"horribles apparitions !"
 
 #: Orcish_Incursion/scenarios/undead.cfg:121
 msgid ""
 "Thank you, Erlornas... now I can return to my tower in peace. But I think "
 "some of my apprentices wish to follow you north in persuit of the orcs."
 msgstr ""
+"Merci, Erlomas... Maintenant je peux retourner à ma tour en paix. Mais je "
+"pense que certains de mes apprentis désirent vous suivre au nord pour "
+"poursuivre les orcs."
 
 #: Orcish_Incursion/scenarios/undead.cfg:125
 msgid ""
 "I have always wished to see elves, and now I have fought alongside them! May "
 "I please come with you?"
 msgstr ""
+"J'ai longtemps souhaité voir des elfes, et maintenant j'ai combattu à leur "
+"côté ! Puis-je vous accompagner ?"
 
 #: Orcish_Incursion/scenarios/undead.cfg:129
 msgid "Certainly... I shall be glad of your help."
-msgstr ""
+msgstr "Certainement... Je serai ravi que vous m'aidiez"
