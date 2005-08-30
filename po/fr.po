@@ -13,7 +13,7 @@ msgstr ""
 
 #: Orcish_Incursion.cfg:16
 msgid "An Orcish Incursion"
-msgstr "Une Intrusion orque"
+msgstr "Une Intrusion orc"
 
 #: Orcish_Incursion.cfg:19
 msgid "Fighter"
@@ -175,7 +175,7 @@ msgstr "Sois prudent... Il pourrait être plus dangereux qu'il n'y paraît."
 
 #: Orcish_Incursion/scenarios/assassins.cfg:107
 msgid "Yes... yes... slay them, my assassins!"
-msgstr "Oui... Oui... Massacrez les, mes assasins !"
+msgstr "Oui... Oui... Massacrez-les, mes assassins !"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:4
 msgid "Valley of Trolls"
@@ -387,7 +387,7 @@ msgid ""
 "from our borders. Will you join us in attacking them?"
 msgstr ""
 "Oui, bien sûr ! Je désire vaincre les abominables orcs et les conduire loin "
-"de nos frontières. Vous joigneriez-vous à nous pour les attaquer ?"
+"de nos frontières. Vous joindriez-vous à nous pour les attaquer ?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:118
 msgid ""
