@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-24 22:00+0200\n"
+"POT-Creation-Date: 2006-03-13 13:47+0100\n"
 "PO-Revision-Date: 2005-09-17 11:15-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,28 +12,28 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: Orcish_Incursion.cfg:16
+#: Orcish_Incursion.cfg:17
 msgid "An Orcish Incursion"
 msgstr "Вторжение Орков"
 
-#: Orcish_Incursion.cfg:19
+#: Orcish_Incursion.cfg:20
 msgid "Fighter"
 msgstr "Воин"
 
 # приведено к стандарту
-#: Orcish_Incursion.cfg:19
+#: Orcish_Incursion.cfg:20
 msgid "(easiest)"
 msgstr "(легче)"
 
-#: Orcish_Incursion.cfg:20
+#: Orcish_Incursion.cfg:21
 msgid "Lord"
 msgstr "Лорд"
 
-#: Orcish_Incursion.cfg:21
+#: Orcish_Incursion.cfg:22
 msgid "(hardest)"
 msgstr "(сложнее)"
 
-#: Orcish_Incursion.cfg:21
+#: Orcish_Incursion.cfg:22
 msgid "High Lord"
 msgstr "Великий Лорд"
 
@@ -63,23 +63,23 @@ msgstr ""
 msgid "Defeat Rualsha-Tan"
 msgstr "Поражение Руалша-Тана"
 
-#: Orcish_Incursion/scenarios/forest.cfg:60
-#: Orcish_Incursion/scenarios/no_villages.cfg:54
+#: Orcish_Incursion/scenarios/teleportation.cfg:78
+#: Orcish_Incursion/scenarios/bottleneck.cfg:95
 #: Orcish_Incursion/scenarios/undead.cfg:54
 #: Orcish_Incursion/scenarios/assassins.cfg:59
-#: Orcish_Incursion/scenarios/bottleneck.cfg:95
+#: Orcish_Incursion/scenarios/forest.cfg:61
+#: Orcish_Incursion/scenarios/no_villages.cfg:54
 #: Orcish_Incursion/scenarios/ambush.cfg:56
-#: Orcish_Incursion/scenarios/teleportation.cfg:78
 msgid "Death of Erlornas"
 msgstr "Смерть Эрлорнаса"
 
-#: Orcish_Incursion/scenarios/forest.cfg:64
-#: Orcish_Incursion/scenarios/no_villages.cfg:58
+#: Orcish_Incursion/scenarios/teleportation.cfg:86
+#: Orcish_Incursion/scenarios/bottleneck.cfg:99
 #: Orcish_Incursion/scenarios/undead.cfg:62
 #: Orcish_Incursion/scenarios/assassins.cfg:63
-#: Orcish_Incursion/scenarios/bottleneck.cfg:99
+#: Orcish_Incursion/scenarios/forest.cfg:65
+#: Orcish_Incursion/scenarios/no_villages.cfg:58
 #: Orcish_Incursion/scenarios/ambush.cfg:60
-#: Orcish_Incursion/scenarios/teleportation.cfg:86
 msgid "Time runs out"
 msgstr "Закончились ходы"
 
@@ -222,7 +222,7 @@ msgstr ""
 msgid "Defend the Forest"
 msgstr "Защитите лес"
 
-#: Orcish_Incursion/scenarios/forest.cfg:54
+#: Orcish_Incursion/scenarios/forest.cfg:55
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -232,18 +232,18 @@ msgstr ""
 "Эльфы могут двигаться быстро и безопасно сквозь деревья. Убейте вражеских "
 "новобранцев вашими лучниками из безопасного леса."
 
-#: Orcish_Incursion/scenarios/forest.cfg:56
+#: Orcish_Incursion/scenarios/forest.cfg:57
 msgid "Defeat Urugha"
 msgstr "Поражение Уругха"
 
-#: Orcish_Incursion/scenarios/forest.cfg:77
+#: Orcish_Incursion/scenarios/forest.cfg:78
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
 msgstr ""
 "Смотри, Эрлорнас! Отряд орков расположился на севере. Они разрушают лес!"
 
-#: Orcish_Incursion/scenarios/forest.cfg:81
+#: Orcish_Incursion/scenarios/forest.cfg:82
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -251,11 +251,11 @@ msgstr ""
 "Я вижу их... мы можем прогнать их. Все равно, Вам лучше всего послать за "
 "подкреплением, Ломарфэль."
 
-#: Orcish_Incursion/scenarios/forest.cfg:85
+#: Orcish_Incursion/scenarios/forest.cfg:86
 msgid "Yes, sir!"
 msgstr "Есть."
 
-#: Orcish_Incursion/scenarios/forest.cfg:107
+#: Orcish_Incursion/scenarios/forest.cfg:108
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -263,7 +263,7 @@ msgstr ""
 "Тысяча проклятий на вас, элфы! Вы пострадаете... Мой хозяин, Руалша, "
 "приближается. Он сотрет ваших эльфов с лица земли!"
 
-#: Orcish_Incursion/scenarios/forest.cfg:111
+#: Orcish_Incursion/scenarios/forest.cfg:112
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -350,8 +350,8 @@ msgstr ""
 msgid "Defeat Krughnar"
 msgstr "Поражение Кругнара"
 
-#: Orcish_Incursion/scenarios/undead.cfg:58
 #: Orcish_Incursion/scenarios/teleportation.cfg:82
+#: Orcish_Incursion/scenarios/undead.cfg:58
 msgid "Death of Linaera"
 msgstr "Смерть Линаеры"
 

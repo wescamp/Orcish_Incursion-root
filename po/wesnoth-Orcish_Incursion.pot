@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-01 22:52+0100\n"
+"POT-Creation-Date: 2006-03-13 13:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,11 +52,11 @@ msgstr ""
 msgid "Defeat Rualsha-Tan"
 msgstr ""
 
-#: ./Orcish_Incursion/scenarios/ambush.cfg:56 ./Orcish_Incursion/scenarios/assassins.cfg:59 ./Orcish_Incursion/scenarios/bottleneck.cfg:95 ./Orcish_Incursion/scenarios/forest.cfg:61 ./Orcish_Incursion/scenarios/no_villages.cfg:54 ./Orcish_Incursion/scenarios/teleportation.cfg:78 ./Orcish_Incursion/scenarios/undead.cfg:54
+#: ./Orcish_Incursion/scenarios/teleportation.cfg:78 ./Orcish_Incursion/scenarios/bottleneck.cfg:95 ./Orcish_Incursion/scenarios/undead.cfg:54 ./Orcish_Incursion/scenarios/assassins.cfg:59 ./Orcish_Incursion/scenarios/forest.cfg:61 ./Orcish_Incursion/scenarios/no_villages.cfg:54 ./Orcish_Incursion/scenarios/ambush.cfg:56
 msgid "Death of Erlornas"
 msgstr ""
 
-#: ./Orcish_Incursion/scenarios/ambush.cfg:60 ./Orcish_Incursion/scenarios/assassins.cfg:63 ./Orcish_Incursion/scenarios/bottleneck.cfg:99 ./Orcish_Incursion/scenarios/forest.cfg:65 ./Orcish_Incursion/scenarios/no_villages.cfg:58 ./Orcish_Incursion/scenarios/teleportation.cfg:86 ./Orcish_Incursion/scenarios/undead.cfg:62
+#: ./Orcish_Incursion/scenarios/teleportation.cfg:86 ./Orcish_Incursion/scenarios/bottleneck.cfg:99 ./Orcish_Incursion/scenarios/undead.cfg:62 ./Orcish_Incursion/scenarios/assassins.cfg:63 ./Orcish_Incursion/scenarios/forest.cfg:65 ./Orcish_Incursion/scenarios/no_villages.cfg:58 ./Orcish_Incursion/scenarios/ambush.cfg:60
 msgid "Time runs out"
 msgstr ""
 
