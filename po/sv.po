@@ -2,37 +2,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-24 22:00+0200\n"
-"PO-Revision-Date: 2005-08-16 21:59+0200\n"
-"Last-Translator: tephlon\n"
+"POT-Creation-Date: 2006-03-13 13:47+0100\n"
+"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.1\n"
 
-#: Orcish_Incursion.cfg:16
+#: Orcish_Incursion.cfg:17
 msgid "An Orcish Incursion"
 msgstr "Orchernas Räd"
 
-#: Orcish_Incursion.cfg:19
+#: Orcish_Incursion.cfg:20
 msgid "Fighter"
 msgstr "Krigare"
 
-#: Orcish_Incursion.cfg:19
+#: Orcish_Incursion.cfg:20
 msgid "(easiest)"
 msgstr "(lättast)"
 
-#: Orcish_Incursion.cfg:20
+#: Orcish_Incursion.cfg:21
 msgid "Lord"
 msgstr "Furste"
 
-#: Orcish_Incursion.cfg:21
+#: Orcish_Incursion.cfg:22
 msgid "(hardest)"
 msgstr "(svårast)"
 
-#: Orcish_Incursion.cfg:21
+#: Orcish_Incursion.cfg:22
 msgid "High Lord"
 msgstr "Storfurste"
 
@@ -62,23 +63,23 @@ msgstr ""
 msgid "Defeat Rualsha-Tan"
 msgstr "Besegra Rualsha-Tan"
 
-#: Orcish_Incursion/scenarios/forest.cfg:60
-#: Orcish_Incursion/scenarios/no_villages.cfg:54
+#: Orcish_Incursion/scenarios/teleportation.cfg:78
+#: Orcish_Incursion/scenarios/bottleneck.cfg:95
 #: Orcish_Incursion/scenarios/undead.cfg:54
 #: Orcish_Incursion/scenarios/assassins.cfg:59
-#: Orcish_Incursion/scenarios/bottleneck.cfg:95
+#: Orcish_Incursion/scenarios/forest.cfg:61
+#: Orcish_Incursion/scenarios/no_villages.cfg:54
 #: Orcish_Incursion/scenarios/ambush.cfg:56
-#: Orcish_Incursion/scenarios/teleportation.cfg:78
 msgid "Death of Erlornas"
 msgstr "Erlornas dör"
 
-#: Orcish_Incursion/scenarios/forest.cfg:64
-#: Orcish_Incursion/scenarios/no_villages.cfg:58
+#: Orcish_Incursion/scenarios/teleportation.cfg:86
+#: Orcish_Incursion/scenarios/bottleneck.cfg:99
 #: Orcish_Incursion/scenarios/undead.cfg:62
 #: Orcish_Incursion/scenarios/assassins.cfg:63
-#: Orcish_Incursion/scenarios/bottleneck.cfg:99
+#: Orcish_Incursion/scenarios/forest.cfg:65
+#: Orcish_Incursion/scenarios/no_villages.cfg:58
 #: Orcish_Incursion/scenarios/ambush.cfg:60
-#: Orcish_Incursion/scenarios/teleportation.cfg:86
 msgid "Time runs out"
 msgstr "Tiden tar slut"
 
@@ -223,7 +224,7 @@ msgstr ""
 msgid "Defend the Forest"
 msgstr "Försvara skogen"
 
-#: Orcish_Incursion/scenarios/forest.cfg:54
+#: Orcish_Incursion/scenarios/forest.cfg:55
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -233,11 +234,11 @@ msgstr ""
 "Alver kan röra sig snabbt och säkert mellan träden. Plocka fiendens soldater "
 "en efter en med bågskyttar från säkerheten i skogen."
 
-#: Orcish_Incursion/scenarios/forest.cfg:56
+#: Orcish_Incursion/scenarios/forest.cfg:57
 msgid "Defeat Urugha"
 msgstr "Besegra Urugha"
 
-#: Orcish_Incursion/scenarios/forest.cfg:77
+#: Orcish_Incursion/scenarios/forest.cfg:78
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
@@ -245,7 +246,7 @@ msgstr ""
 "Titta Erlornas! En grupp orcher har slagit läger norrut. De förstör skogen "
 "där!"
 
-#: Orcish_Incursion/scenarios/forest.cfg:81
+#: Orcish_Incursion/scenarios/forest.cfg:82
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -253,11 +254,11 @@ msgstr ""
 "Jag ser dem... Vi borde ha möjlighet att driva bort dem. Men det är bäst att "
 "du begär förstärkningar, Lomarfel."
 
-#: Orcish_Incursion/scenarios/forest.cfg:85
+#: Orcish_Incursion/scenarios/forest.cfg:86
 msgid "Yes, sir!"
 msgstr "Ja, ers nåd!"
 
-#: Orcish_Incursion/scenarios/forest.cfg:107
+#: Orcish_Incursion/scenarios/forest.cfg:108
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -265,7 +266,7 @@ msgstr ""
 "Tusen förbannelser över dig, alvspoling! Du skall få... Min mästare, "
 "Rualsha, närmar sig. Han kommer att rensa bort ditt folk från jordens yta!"
 
-#: Orcish_Incursion/scenarios/forest.cfg:111
+#: Orcish_Incursion/scenarios/forest.cfg:112
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -352,8 +353,8 @@ msgstr ""
 msgid "Defeat Krughnar"
 msgstr "Besegra Krughnar"
 
-#: Orcish_Incursion/scenarios/undead.cfg:58
 #: Orcish_Incursion/scenarios/teleportation.cfg:82
+#: Orcish_Incursion/scenarios/undead.cfg:58
 msgid "Death of Linaera"
 msgstr "Linaera dör"
 
