@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-13 13:47+0100\n"
+"POT-Creation-Date: 2006-04-20 18:49+0200\n"
 "PO-Revision-Date: 2006-03-13 02:59+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -120,17 +120,19 @@ msgstr ""
 "norden."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:166
+#, fuzzy
 msgid ""
-"It grieves me to take life, even of a barbarian such such as Rualsha. He led "
-"the orcs in a more organised way than I have ever known of before."
+"It grieves me to take life, even of a barbarian such as Rualsha. He led the "
+"orcs in a more organised way than I have ever known of before."
 msgstr ""
 "Jag sörjer över att behöva ta ett liv, även från en sådan barbar som "
 "Rualsha. Han ledde orcherna på ett mer organiserat sätt än jag någonsin har "
 "sett innan."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
+#, fuzzy
 msgid ""
-"Let us hope the orcs never against produce such a leader! Now, Erlornas, we "
+"Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
 msgstr ""
 "Låt oss hoppas att orcherna aldrig lyckas producera en sådan ledare igen! "

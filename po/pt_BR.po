@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-13 13:47+0100\n"
+"POT-Creation-Date: 2006-04-20 18:49+0200\n"
 "PO-Revision-Date: 2025-04-12 11:09+0900\n"
 "Last-Translator: Claudio Terra <cbterra@gmail.com>\n"
 "Language-Team: none\n"
@@ -118,17 +118,19 @@ msgstr ""
 "e fugiram dos elfos voltando para suas casas ao norte distante."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:166
+#, fuzzy
 msgid ""
-"It grieves me to take life, even of a barbarian such such as Rualsha. He led "
-"the orcs in a more organised way than I have ever known of before."
+"It grieves me to take life, even of a barbarian such as Rualsha. He led the "
+"orcs in a more organised way than I have ever known of before."
 msgstr ""
 "Me aflige tomar a vida de outrém, até mesmo de um bárbaro tal como Rualsha. "
 "Ele conduziu o orcs de um modo muito organizado tal como nunca havia visto "
 "antes."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
+#, fuzzy
 msgid ""
-"Let us hope the orcs never against produce such a leader! Now, Erlornas, we "
+"Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
 msgstr ""
 "Esperemos que os orcs nunca produzam um líder como esse novamente! Agora, "

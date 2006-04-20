@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-13 13:47+0100\n"
+"POT-Creation-Date: 2006-04-20 18:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,11 +77,11 @@ msgid "But Rualsha overestimated the will of his troops. With their leader dead,
 msgstr ""
 
 #: ./Orcish_Incursion/scenarios/ambush.cfg:166
-msgid "It grieves me to take life, even of a barbarian such such as Rualsha. He led the orcs in a more organised way than I have ever known of before."
+msgid "It grieves me to take life, even of a barbarian such as Rualsha. He led the orcs in a more organised way than I have ever known of before."
 msgstr ""
 
 #: ./Orcish_Incursion/scenarios/ambush.cfg:170
-msgid "Let us hope the orcs never against produce such a leader! Now, Erlornas, we must return home - the council will well reward you!"
+msgid "Let us hope the orcs never again produce such a leader! Now, Erlornas, we must return home - the council will well reward you!"
 msgstr ""
 
 #: ./Orcish_Incursion/scenarios/assassins.cfg:4
