@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 18:49+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-04-22 15:50+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Orcish_Incursion.cfg:17
 msgid "An Orcish Incursion"
@@ -120,7 +120,6 @@ msgstr ""
 "norden."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:166
-#, fuzzy
 msgid ""
 "It grieves me to take life, even of a barbarian such as Rualsha. He led the "
 "orcs in a more organised way than I have ever known of before."
@@ -130,7 +129,6 @@ msgstr ""
 "sett innan."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
-#, fuzzy
 msgid ""
 "Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
