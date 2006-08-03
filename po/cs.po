@@ -129,8 +129,8 @@ msgid ""
 "It grieves me to take life, even of a barbarian such as Rualsha. He led the "
 "orcs in a more organised way than I have ever known of before."
 msgstr ""
-"Trápí mě zabíjet, dokonce i takového barbara jako Rualshu. Vedl "
-"skřety spořádaněji než kdokoli před ním."
+"Trápí mě zabíjet, dokonce i takového barbara jako Rualshu. Vedl skřety "
+"spořádaněji než kdokoli před ním."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
 msgid ""
@@ -167,7 +167,8 @@ msgstr "Gharlša vidět elfy... jiště... čerstvý maso, jiště, jiště..."
 msgid ""
 "Does that demented creature really think he can kill us... let us teach him "
 "a lesson!"
-msgstr "Opravdu si to pitomé stvoření myslí, že nás může zabít... dáme mu lekci!"
+msgstr ""
+"Opravdu si to pitomé stvoření myslí, že nás může zabít... dáme mu lekci!"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:90
 msgid "Be careful... he may be more dangerous than he appears."
@@ -385,14 +386,17 @@ msgstr ""
 "zahnat od našich hranic. Připojíte se k našemu útoku?"
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:118
-msgid "Nothing would please me better! I will place all my powers at your command."
-msgstr "Nic by mě nepotěšilo víc! Rozmístím všechny své síly dle tvého rozkazu."
+msgid ""
+"Nothing would please me better! I will place all my powers at your command."
+msgstr ""
+"Nic by mě nepotěšilo víc! Rozmístím všechny své síly dle tvého rozkazu."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:131
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
-msgstr "Můj pane... lidé jsou nedůvěryhodní! Mění svá spojenectví jako se mění vítr."
+msgstr ""
+"Můj pane... lidé jsou nedůvěryhodní! Mění svá spojenectví jako se mění vítr."
 
 #: Orcish_Incursion/scenarios/teleportation.cfg:135
 msgid ""
@@ -486,4 +490,3 @@ msgstr ""
 #: Orcish_Incursion/scenarios/undead.cfg:129
 msgid "Certainly... I shall be glad of your help."
 msgstr "Jistě... Potěší mě tvá pomoc."
-
