@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-20 18:49+0200\n"
+"POT-Creation-Date: 2006-09-04 20:07+0200\n"
 "PO-Revision-Date: 2005-07-11 14:01+0100\n"
 "Last-Translator: Széll Tamás <tomi@digiflex.hu>\n"
 "Language-Team: none\n"
@@ -100,9 +100,10 @@ msgstr ""
 "titeket. A minnél gyorsabb halálért fogtok könyörögni!"
 
 #: Orcish_Incursion/scenarios/ambush.cfg:152
+#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
-"will persue you, and destroy you utterly... we will... we... arrgh..."
+"will pursue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
 "Engem legyőzhetsz, Erlornas, de a népem tovább fog élni. Nem fogják "
 "elfelejteni! Fel fognak téged kutatni, és csúnyán meg fogsz ezért lakolni. "
@@ -458,9 +459,10 @@ msgid "Defeat Keremal"
 msgstr "Legyőzöd Keremalt"
 
 #: Orcish_Incursion/scenarios/undead.cfg:87
+#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
-"bog. My apprentices and I have the power to dispell them, but you must "
+"bog. My apprentices and I have the power to dispel them, but you must "
 "protect us from their weapons."
 msgstr ""
 "Az ideköltözött gonosz lelkek egy vészjósló láppá változtatták az ingoványt. "

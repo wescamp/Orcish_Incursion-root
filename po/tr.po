@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-20 18:49+0200\n"
+"POT-Creation-Date: 2006-09-04 20:07+0200\n"
 "PO-Revision-Date: 2005-10-21 23:39+0300\n"
 "Last-Translator: Pınar Yanardağ <pinar@comu.edu.tr>\n"
 "Language-Team: Turkish <farsakoglu@web.de>\n"
@@ -100,9 +100,10 @@ msgstr ""
 "Çabuk bir ölüm için yalvaracaksınız!"
 
 #: Orcish_Incursion/scenarios/ambush.cfg:152
+#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
-"will persue you, and destroy you utterly... we will... we... arrgh..."
+"will pursue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
 "Beni katledebilirsin Erlornas, ama insanlarım yaşamaya devam edecekler. "
 "Unutmayacaklar! "
@@ -455,9 +456,10 @@ msgid "Defeat Keremal"
 msgstr "Keremal'ı yen"
 
 #: Orcish_Incursion/scenarios/undead.cfg:87
+#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
-"bog. My apprentices and I have the power to dispell them, but you must "
+"bog. My apprentices and I have the power to dispel them, but you must "
 "protect us from their weapons."
 msgstr ""
 "Buraya yerleşmiş kötü ruhlar bu sulak alanı iğrenç bir bataklığa çevirdi. "
