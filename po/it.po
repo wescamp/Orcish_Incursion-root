@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-04 20:07+0200\n"
-"PO-Revision-Date: 2005-09-01 15:01+0100\n"
+"PO-Revision-Date: 2006-09-07 09:24+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Orcish_Incursion.cfg:17
 msgid "An Orcish Incursion"
-msgstr "Un'incursione Orchesca"
+msgstr "Un'incursione orchesca"
 
 #: Orcish_Incursion.cfg:20
 msgid "Fighter"
@@ -100,12 +100,11 @@ msgstr ""
 "distruggeremo. Pregherete di morire velocemente!"
 
 #: Orcish_Incursion/scenarios/ambush.cfg:152
-#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will pursue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
-"Puoi uccidere me, Erlonas, ma la mia gente soppraviverà. Non "
+"Mi puoi anche uccidere, Erlonas, ma la mia gente soppraviverà. Non "
 "dimenticheranno! Vi perseguiteranno e vi distruggeranno miserabili... vi... "
 "vi... arrgh..."
 
@@ -119,7 +118,6 @@ msgstr ""
 "rifugiarsi nelle loro terre natie nel lontano nord."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:166
-#, fuzzy
 msgid ""
 "It grieves me to take life, even of a barbarian such as Rualsha. He led the "
 "orcs in a more organised way than I have ever known of before."
@@ -128,13 +126,12 @@ msgstr ""
 "guidato gli orchi in un esercito organizzato come non avevo mai visto prima."
 
 #: Orcish_Incursion/scenarios/ambush.cfg:170
-#, fuzzy
 msgid ""
 "Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
 msgstr ""
-"Speriamo che gli orchi non abbiano mai più un capo del genere! Adesso "
-"Erlonas dobbiamo tornare a casa - il concilio ti ricompenserà bene!"
+"Speriamo che gli orchi non abbiano mai più un capo del genere! Adesso, "
+"Erlonas, dobbiamo tornare a casa - il consiglio ti ricompenserà bene!"
 
 #: Orcish_Incursion/scenarios/assassins.cfg:4
 msgid "Assassins"
@@ -174,11 +171,11 @@ msgstr "Stai attento... potrebbe essere più pericoloso di quanto sembra."
 
 #: Orcish_Incursion/scenarios/assassins.cfg:107
 msgid "Yes... yes... slay them, my assassins!"
-msgstr "Sì... sì... uccidetili miei assassini!"
+msgstr "Sì... sì... uccideteli miei assassini!"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:4
 msgid "Valley of Trolls"
-msgstr "Valle dei Troll"
+msgstr "Valle dei troll"
 
 #: Orcish_Incursion/scenarios/bottleneck.cfg:89
 msgid ""
@@ -223,7 +220,7 @@ msgstr ""
 
 #: Orcish_Incursion/scenarios/forest.cfg:4
 msgid "Defend the Forest"
-msgstr "Difendi la Foresta"
+msgstr "Difendi la foresta"
 
 #: Orcish_Incursion/scenarios/forest.cfg:55
 msgid ""
@@ -277,7 +274,7 @@ msgstr ""
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:4
 msgid "Wasteland"
-msgstr "Terre Desolate"
+msgstr "Terre desolate"
 
 #: Orcish_Incursion/scenarios/no_villages.cfg:48
 msgid ""
@@ -440,7 +437,7 @@ msgstr "Molto bene... andiamo ad est!"
 
 #: Orcish_Incursion/scenarios/undead.cfg:4
 msgid "A Detour through the Swamp"
-msgstr "Un giro attraverso la Palude"
+msgstr "Un giro attraverso la palude"
 
 #: Orcish_Incursion/scenarios/undead.cfg:48
 msgid ""
@@ -457,13 +454,12 @@ msgid "Defeat Keremal"
 msgstr "Sconfiggi Keremal"
 
 #: Orcish_Incursion/scenarios/undead.cfg:87
-#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispel them, but you must "
 "protect us from their weapons."
 msgstr ""
-"Gli spiriti malvagi che si sono insediati in questo acquitrinio lo hannp "
+"Gli spiriti malvagi che si sono insediati in questo acquitrinio lo hanno "
 "trasformato in un orribile palude. Io ed i miei apprendisti abbiamo il "
 "potere di ripulire l'area, ma dovete proteggerci con le vostre armi."
 
